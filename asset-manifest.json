@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-fabric-drawing/static/js/main.b8b99ff0.js",
+    "static/js/377.392cdb0b.chunk.js": "/react-fabric-drawing/static/js/377.392cdb0b.chunk.js",
+    "service-worker.js": "/react-fabric-drawing/service-worker.js",
+    "index.html": "/react-fabric-drawing/index.html",
+    "main.b8b99ff0.js.map": "/react-fabric-drawing/static/js/main.b8b99ff0.js.map",
+    "377.392cdb0b.chunk.js.map": "/react-fabric-drawing/static/js/377.392cdb0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b8b99ff0.js"
+  ]
+}
