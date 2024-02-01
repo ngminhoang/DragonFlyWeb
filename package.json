@@ -38,6 +38,8 @@
         "workbox-streams": "^5.1.4"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "postinstall": "cd node_modules/fabric && npm run build_with_gestures",
         "start": "react-scripts start",
         "build": "react-scripts build",
@@ -63,6 +65,7 @@
             "last 1 safari version"
         ]
     },
+    "homepage": "https://ngminhoang.github.io/DragonFlyWeb/",
     "devDependencies": {
         "@types/fabric": "^4.5.6",
         "uglify-js": "^3.14.5"
